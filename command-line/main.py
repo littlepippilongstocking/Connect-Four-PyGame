@@ -4,14 +4,9 @@ Connect Four game on PyGame
 Command Line Edition (No Graphics)
 """
 import numpy
-import math
-import pygame
-import sys
 
 rows = 6
 cols = 7
-even = 0
-odd = 1
 
 
 def create_board():
